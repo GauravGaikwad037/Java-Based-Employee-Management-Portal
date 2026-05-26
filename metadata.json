@@ -1,0 +1,8 @@
+{
+  "name": "Java-Based Employee Management Portal",
+  "description": "An AI-powered, scalable enterprise workflow and portal for multi-role employee management, featuring high-fidelity RBAC, Gantt boards, interactive payroll approval, and dynamic Spring Boot backend architecture simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
